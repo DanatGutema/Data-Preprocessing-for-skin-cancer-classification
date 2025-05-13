@@ -10,19 +10,19 @@ The proposed model employs Convolutional Neural Networks for image classificatio
 
 Data preparation in melanoma detection involves organizing and pre-processing the data used to train and test the model for identifying melanoma. This process is crucial to ensure the model's effectiveness. Here are the key steps involved in data preparation for melanoma detection.
 
-Import all important python libraries
-Reading the dataset
-Analyzing the data(shape,head,tail,info etc)
-Check for Duplicates
-Missing value calculation
-Data Reduction
-Feature Engineering
-Creating Features
-Data Cleaning/Wrangling
-EDA (trends,patterns, outliers,insigihts,missing values)
-Statistics summary(describe)
-EDA Univariant Analysis
-Data Trasnformation
-EDA Bivariant Analysis
-EDA Multivariant Analysis (Heat Map)
-Impute missing values (Mean,Mode & Median)
+1. Import all important python libraries
+2. Reading the dataset
+   * Analyzing the data(shape,head,tail,info etc)
+   * Check for Duplicates
+   * Missing value calculation
+3. Data Reduction
+4. Feature Engineering
+5. Creating Features
+6. Data Cleaning/Wrangling
+7. EDA (trends,patterns, outliers,insigihts,missing values)
+8. Statistics summary(describe)
+9. EDA Univariant Analysis
+10. Data Trasnformation
+11. EDA Bivariant Analysis
+12. EDA Multivariant Analysis (Heat Map)
+13. Impute missing values (Mean,Mode & Median)
