@@ -1,4 +1,4 @@
-# Data-Preprocessing-for-skin-cancer-classification
+# Exploratory Data Analysis (EDA) for Skin Cancer Classification
 #Melanoma Detection Using a CNN
 Cancer is a common illness caused by cells in the body growing out of control. It can show up in different ways, such as Breast Cancer, Lung Cancer, and Pancreatic Cancer.
 
